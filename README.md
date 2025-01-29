@@ -10,6 +10,8 @@ All in all, this article shows a smarter, more efficient, approach to developing
 ***-Mahmoud Shehata***
 
 
+# Comments
+
 I wonder what principle developers struggle the most with. From what I gathered from the article, it seems "optimizing the whole" is the one most struggle with. 
 
 ***-Arkadiuz Mercado***
