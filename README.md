@@ -8,3 +8,8 @@ I most liked the focus on the importance of omptimizing the whole rather than in
 All in all, this article shows a smarter, more efficient, approach to developing software which balances speed and efficiency. 
 
 ***-Mahmoud Shehata***
+
+
+I wonder what principle developers struggle the most with. From what I gathered from the article, it seems "optimizing the whole" is the one most struggle with. 
+
+***-Arkadiuz Mercado***
