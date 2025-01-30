@@ -15,3 +15,7 @@ All in all, this article shows a smarter, more efficient, approach to developing
 I wonder what principle developers struggle the most with. From what I gathered from the article, it seems "optimizing the whole" is the one most struggle with. 
 
 ***-Arkadiuz Mercado***
+
+This is a very interesting topic - in a world of AI and constant random generation of code, we need to figure out how to manage the waste and prioritize efficiency.
+
+***- Syed Naqvi ***
